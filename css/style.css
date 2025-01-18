@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6, p{
 }
 .aboutImg img{
     width: 100%;
-    height: 400px;
+    height: 410px;
 }
 .aboutText{
     width: 50%;
@@ -141,8 +141,157 @@ h1, h2, h3, h4, h5, h6, p{
 }
 /* About Part End */
 
-/* Header Part Start */
-/* Header Part End */
+/* Background Part Start */
+#BackgroundPart{
+    background: url(../images/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   
+}
+.backgroundSalider{
+    background: rgba(0, 0, 0, 0.6);
+    padding: 150px 0 250px 0;
+    position: relative;
+}
+.backgroundText{
+    text-align: center;
+}
+.backgroundText h2{
+    color: white;
+    font-size: 33px;
+    padding: 0 240px;
+    line-height: 40px;
+}
+.backgroundText p{
+    font-size: 21px;
+    line-height: 25px;
+   font-family: "Source Sans 3", serif;
+   color: #837070;
+   padding: 50px 290px;
+}
+.posationOne{
+    width: 155px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    top: 410px;
+    left: 55px;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    transition: 2s;
+    cursor: pointer;
+}
+.posationOne i{
+    font-size: 50px;
+   padding: 25px 50px;
+}
+.posationOne:hover{
+background: #e4b855;
+color: #fff;
+}
+.posationTow{
+    width: 155px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    top: 410px;
+    left: 250px;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    transition: 2s;
+    cursor: pointer;
+}
+.posationTow i{
+    font-size: 50px;
+    padding: 25px 50px;
+}
+.posationTow:hover{
+    background: #e4b855;
+    color: #fff;
+}
+.posationThree{
+    width: 155px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    top: 410px;
+    left: 445px;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    transition: 2s;
+    cursor: pointer;
+}
+.posationThree i{
+    font-size: 50px;
+    padding: 25px 50px;
+}
+.posationThree:hover{
+    background: #e4b855;
+    color: #fff;
+}
+.posationFour{
+    width: 155px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    top: 410px;
+    left: 640px;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    transition: 2s;
+    cursor: pointer;
+}
+.posationFour i{
+    font-size: 50px;
+    padding: 25px 50px;
+}
+.posationFour:hover{
+    background: #e4b855;
+    color: #fff;
+}
+.posationFive{
+    width: 155px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    top: 410px;
+    left: 835px;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    transition: 2s;
+    cursor: pointer;
+}
+.posationFive i{
+    font-size: 50px;
+    padding: 25px 50px;
+}
+.posationFive:hover{
+    background: #e4b855;
+    color: #fff;
+}
+.posationSix{
+    width: 155px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    top: 410px;
+    left: 1030px;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    transition: 2s;
+    cursor: pointer;
+}
+.posationSix i{
+    font-size: 50px;
+    padding: 25px 50px;
+}
+.posationSix:hover{
+    background: #e4b855;
+    color: #fff;
+}
+/* Background Part End */
 
 /* Header Part Start */
 /* Header Part End */
