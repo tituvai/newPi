@@ -103,6 +103,79 @@ h1, h2, h3, h4, h5, h6, p{
     font-family: "Source Sans 3", serif;
     padding: 0 260px; 
 }
+
+.updatTime{
+    display: flex;
+    margin-top: 70px;
+    justify-content: center;
+}
+.dayTime{
+    border: 2px solid white;
+    width: 100px;
+    height: 120px;
+    color: white;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    border-radius: 20px;
+}
+#day{
+margin: 25px 0 18px 0;
+font-size: 40px;
+}
+.dayTime p{
+    font-size: 20px;
+}
+.hoursTime{
+    border: 2px solid white;
+    width: 100px;
+    height: 120px;
+    color: white;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    margin-left: 20px;
+    border-radius: 20px; 
+}
+#hours{
+    margin: 25px 0 18px 0;
+    font-size: 40px;   
+}
+.hoursTime{
+    font-size: 20px;
+}
+.minitecTime{
+    border: 2px solid white;
+    width: 100px;
+    height: 120px;
+    color: white;
+    text-align: center;
+    font-family: "Source Sans 3", serif; 
+    margin-left: 20px;  
+    border-radius: 20px;  
+}
+#minitecs{
+    margin: 25px 0 18px 0;
+    font-size: 40px;   
+}
+.minitecTime{
+    font-size: 20px; 
+}
+.secoundTime{
+    border: 2px solid white;
+    width: 100px;
+    height: 120px;
+    color: white;
+    text-align: center;
+    font-family: "Source Sans 3", serif;
+    margin-left: 20px; 
+    border-radius: 20px;    
+}
+#secodnts{
+    margin: 25px 0 18px 0;
+    font-size: 40px;  
+}
+.secoundTime{
+    font-size: 20px;  
+}
 /* Banner Part End */
 
 /* About Part Start */
